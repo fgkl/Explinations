@@ -1,0 +1,19 @@
+## rconsole colours
+```lua
+rconsoleprint("@@BLACK@@")
+rconsoleprint("@@BLUE@@")
+rconsoleprint("@@GREEN@@")
+rconsoleprint("@@CYAN@@")
+rconsoleprint("@@RED@@")
+rconsoleprint("@@MAGENTA@@")
+rconsoleprint("@@MAGENTA@@")
+rconsoleprint("@@LIGHT_GRAY@@")
+rconsoleprint("@@DARK_GRAY@@")
+rconsoleprint("@@LIGHT_BLUE@@")
+rconsoleprint("@@LIGHT_GREEN@@")
+rconsoleprint("@@LIGHT_CYAN@@")
+rconsoleprint("@@LIGHT_RED@@")
+rconsoleprint("@@LIGHT_MAGENTA@@")
+rconsoleprint("@@YELLOW@@")
+rconsoleprint("@@WHITE@@")
+```
