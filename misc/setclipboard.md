@@ -1,4 +1,4 @@
 ## usage of setclipboard
 ```lua
-setclipboard("idk"."idk2")
+setclipboard("idk","idk2")
 ```
