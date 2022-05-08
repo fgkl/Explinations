@@ -6,7 +6,7 @@ function teleportTO(placeCFrame)
         plyr.Character.HumanoidRootPart.CFrame = placeCFrame;
     end
 end
-teleportTO(pathhere) -- example: teleportTO(game.Workspace)
+teleportTO(pathhere) -- example: teleportTO(game.Workspace.Part)
 ```
 ## Teleport to a player or to a cframe
 ```lua
